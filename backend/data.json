@@ -1,0 +1,50 @@
+{
+  "Pune": [
+    { "month_year": "Jan-2025", "total_workers": 1200, "total_workdays": 3000, "expenditure": 500000 },
+    { "month_year": "Feb-2025", "total_workers": 1500, "total_workdays": 3500, "expenditure": 600000 }
+  ],
+  "Nagpur": [
+    { "month_year": "Jan-2025", "total_workers": 900, "total_workdays": 2500, "expenditure": 400000 }
+  ],
+  "Mumbai": [
+    { "month_year": "Jan-2025", "total_workers": 2000, "total_workdays": 5000, "expenditure": 1000000 }
+  ],
+  "Nashik": [
+    { "month_year": "Jan-2025", "total_workers": 800, "total_workdays": 2000, "expenditure": 350000 }
+  ],
+  "Aurangabad": [
+    { "month_year": "Jan-2025", "total_workers": 700, "total_workdays": 1800, "expenditure": 300000 }
+  ],
+  "Solapur": [
+    { "month_year": "Jan-2025", "total_workers": 650, "total_workdays": 1700, "expenditure": 280000 }
+  ],
+  "Kolhapur": [
+    { "month_year": "Jan-2025", "total_workers": 600, "total_workdays": 1600, "expenditure": 260000 }
+  ],
+  "Thane": [
+    { "month_year": "Jan-2025", "total_workers": 1500, "total_workdays": 4000, "expenditure": 700000 }
+  ],
+  "Amravati": [
+    { "month_year": "Jan-2025", "total_workers": 550, "total_workdays": 1500, "expenditure": 250000 }
+  ],
+  "Satara": [
+    { "month_year": "Jan-2025", "total_workers": 500, "total_workdays": 1400, "expenditure": 230000 }
+  ],
+  "Una": [
+    { "month_year": "Jan-2025", "total_workers": 400, "total_workdays": 1200, "expenditure": 180000 },
+    { "month_year": "Feb-2025", "total_workers": 450, "total_workdays": 1300, "expenditure": 200000 }
+  ],
+  "Shimla": [
+    { "month_year": "Jan-2025", "total_workers": 300, "total_workdays": 1000, "expenditure": 150000 },
+    { "month_year": "Feb-2025", "total_workers": 350, "total_workdays": 1100, "expenditure": 170000 }
+  ],
+  "Raigad": [
+    { "month_year": "Jan-2025", "total_workers": 480, "total_workdays": 1400, "expenditure": 210000 }
+  ],
+  "Nanded": [
+    { "month_year": "Jan-2025", "total_workers": 420, "total_workdays": 1300, "expenditure": 190000 }
+  ],
+  "Wardha": [
+    { "month_year": "Jan-2025", "total_workers": 360, "total_workdays": 1100, "expenditure": 160000 }
+  ]
+}
